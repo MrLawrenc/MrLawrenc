@@ -23,9 +23,8 @@ Here are some ideas to get you started:
 - :hammer: Creator of applications and frameworks
 - :ram: la la la
 - :meat_on_bone: Meat lover & Outdoor sports
-<!--
-## 📊 本周编码时长
 
+## 📊 本周编码时长
 <!--START_SECTION:waka-->
 ```text
 Week: 25 November, 2020 - 02 December, 2020
@@ -44,6 +43,5 @@ PyCharm           0 secs              ░░░░░░░░░░░░░░
 Windows           36 mins             █████████████████████████   100.0%
 
 ```
--->
 
 <!--END_SECTION:waka-->
